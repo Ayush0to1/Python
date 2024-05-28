@@ -2,7 +2,7 @@
 Starting  
 print("Starting of python programming.")
 
-# TO USE MULTI LINE String == """"type string here for multi line i.e 3"""
+// TO USE MULTI LINE String == """"type string here for multi line i.e 3"""
 
 '''Python Indentation
 Indentation refers to the spaces at the beginning of a code line.
@@ -17,11 +17,12 @@ x="String"
 print(type(x))
 
 # If you have a collection of values in a list, tuple etc. Python allows you to extract the values into variables. 
-# This is called unpacking
+This is called unpacking
+
 fruits=['apple','mangoes','orange']
 a,b,c=fruits
 print(a)
 print(b)
 print(c)
-print("This is \"paper\"")  # IT is use to write "" in run time
+print("This is \"paper\"")  // It is use to write "" in run time
                                                                                                          
