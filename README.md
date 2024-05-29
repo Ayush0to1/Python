@@ -1,4 +1,19 @@
-# Python
+# Python Notes
+To get the length of a string, use the len() function. Here 'a' is string
+print(len(a))
+To check if a certain phrase or character is present in a string, we can use the keyword in. It only answerd in yes and no.
+txt = "The best things in life are free!"
+print("free" in txt)
+If not
+txt = "The best things in life are free!"
+if "expensive" not in txt:
+  print("No, 'expensive' is NOT present.")
+Get the characters from position 2 to position 5 
+print(a[2:5])
+
+
+
+# Python Code
 Starting  
 print("Starting of python programming.")
 
